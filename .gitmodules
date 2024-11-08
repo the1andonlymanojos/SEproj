@@ -1,0 +1,9 @@
+[submodule "frontend-polfyile"]
+	path = frontend-polfyile
+	url = https://github.com/the1andonlymanojos/frontend-polfyile.git
+[submodule "hello-chi"]
+	path = hello-chi
+	url = https://github.com/the1andonlymanojos/hello-chi.git
+[submodule "pdfservice"]
+	path = pdfservice
+	url = https://github.com/the1andonlymanojos/pdfservice.git
